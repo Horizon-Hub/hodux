@@ -1,5 +1,5 @@
 {
-  "name": "hodux",
+  "name": "svelte-hodux",
   "version": "1.0.0",
   "description": "A simple svelte state management library",
   "main": "index.js",

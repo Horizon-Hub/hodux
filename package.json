@@ -13,11 +13,11 @@
   "keywords": [
     "svelte",
     "state",
-    "state",
     "management",
+    "state",
     "redux",
-    "horizon",
-    "hodux"
+    "hodux",
+    "horizon"
   ],
   "author": "Horizon Hub",
   "license": "ISC",
